@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "422819553777",
+    "firebase_url": "https://flightdroid-10ef5.firebaseio.com",
+    "project_id": "flightdroid-10ef5",
+    "storage_bucket": "flightdroid-10ef5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422819553777:android:40a077acf73ccefb63e450",
+        "android_client_info": {
+          "package_name": "com.example.flightdroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422819553777-m7o8ckumesnfavp73bihfopt5jjkrm6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlDKfsO5-GhB2S1Grb9NF8ZougP5cp9pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422819553777-m7o8ckumesnfavp73bihfopt5jjkrm6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
